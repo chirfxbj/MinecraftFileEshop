@@ -1,2 +1,2 @@
 # powerstore
-Store
+欢迎来到MCESHOP
